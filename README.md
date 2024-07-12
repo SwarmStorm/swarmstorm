@@ -2,7 +2,7 @@
 
 I’m a jack of all langs, "battle-tested" Full-Stack __Software Engineer__ and **Solution Architect** of 15+ years with specialty knowledge in **Integrating systems** together. I've worked in everything from billing systems, building a comprehensive Telehealth platform from scratch, managing complex Kubernetes iPAAS platforms, to completely revolutionzing how companys work with automations and data warehousing with Business Intelligence in Healthcare. Presently I am working in the CMMS space revolutionizing how the unsung heros of the world, our maintenance technicians, keep the world running.
 
-With a background in consulting, entrepreneurship, and AI, I have the ability to take ownership and lead on frontend and backend development, designing and supervising implementations of APIs, Databases, systems topologies, integrations, and building systems from the ground up for B2B/B2C solutions. My experience includes working in various industries such as retail, telecom, healthcare, manufacturing, oil and gas production, power generation, construction, and transportation where software is critical.
+With a background in consulting, entrepreneurship, and AI, I have the ability to take ownership and lead on frontend and backend development, designing and supervising implementations of APIs, Databases, systems topologies, integrations, and building systems from the ground up for B2B/B2C solutions. My experience includes working in various industries such as retail, telecom, healthcare, manufacturing, oil and gas production, power generation, farming, construction, and transportation where software is critical.
 
 ---
 
