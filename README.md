@@ -2,6 +2,8 @@
 
 I'm a jack of all programming languages, a generalist by nature, and a "battle-tested" **Full-Stack Developer**, **Technical Founder, and Cloud Architect** with over **17 years** of experience in the software development industry. I've been through numerous programming environments, demonstrating proficiency in integrating complex systems and building innovative products from the ground up that have supported millions of end users. My specialty lies in crafting scalable solutions that not only meet, but exceed business objectives.
 
+Everything I do, I'm all in. In the realm of engineering, we have many challenges, and with those challenges, there will be times when we succeed and fail. It is the concept of being completely in the game at all times, no matter the obstacle that is the burning light at the end of the tunnel that allows us to make a reality of what once was thought unimaginable.
+
 ---
 
 🚀 **BIO TLDR**;
@@ -35,6 +37,7 @@ I'm a jack of all programming languages, a generalist by nature, and a "battle-t
 
 ---
 - You can find a long feed at [swarmstorm/awesome](https://github.com/swarmstorm/awesome) in an easy-to-read format of all the projects I've starred in my adventures on GitHub!
+  
 - Checkout my badges on [Credly](https://www.credly.com/users/ed-chalon)
 
 --- 
@@ -58,7 +61,7 @@ I'm passionate about transforming ideas into reality, building products from con
 - **Integration Platform as a Service (iPaaS)**: Created an iPaaS solution that empowers users to build integrations on their own, reducing reliance on specialized development teams and accelerating business processes.
 - **AI-Driven Maintenance Solutions**: Currently, I'm behind a patent-pending product in the **Computerized Maintenance Management System (CMMS)** space. This innovative solution leverages **Artificial Intelligence** and cutting-edge technologies to revolutionize how maintenance technicians keep the world running.
 
-## Technical Proficiency
+#### Technical Proficiency
 
 - **Programming Languages**: Proficient in **JavaScript**, **Python**, and a comfortable polyglot in many others.
 - **Frameworks**: Experienced with **React**, **Angular**, **Node.js**, **.NET**, and **Ruby on Rails**.
@@ -66,3 +69,6 @@ I'm passionate about transforming ideas into reality, building products from con
 - **DevOps and Cloud**: Expertise in **Kubernetes**, **Docker**, **AWS**, **Serverless**, **Azure**, **Github CICD**, and **Google Cloud Platform**.
 - **APIs and Microservices**: Designed and implemented scalable **APIs** and **microservices** architectures for high-traffic applications.
 - **AI and Machine Learning**: Applied **Machine Learning** algorithms and AI technologies to enhance product features and user experiences. I've also **built from scratch models**, and **created novel DAG** pipelines.
+
+
+#### Want to work together? [I offer many forms of consulting](https://cyb3r.world)
