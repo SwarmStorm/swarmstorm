@@ -2,7 +2,7 @@
 
 I'm a jack of all programming languages, a generalist by nature, and a "battle-tested" **Full-Stack Developer**, **Technical Founder, and Cloud Architect** with over **17 years** of experience in the software development industry. I've been through numerous programming environments, demonstrating proficiency in integrating complex systems and building innovative products from the ground up that have supported millions of end users. My specialty lies in crafting scalable solutions that not only meet, but exceed business objectives.
 
-Everything I do, I'm all in. In the realm of engineering, we have many challenges, and with those challenges, there will be times when we succeed and fail. It is the concept of being completely in the game at all times, no matter the obstacle that is the burning light at the end of the tunnel that allows us to make a reality of what once was thought unimaginable.
+Everything I do, I'm all in. In the realm of engineering, we have many challenges, and with those challenges, there will be times when we succeed and fail. It is the concept of being completely in the code at all times, no matter the obstacle that is the burning light at the end of the tunnel that allows us to make a reality of what once was thought unimaginable. As engineers we win, when our end users do.
 
 ---
 
