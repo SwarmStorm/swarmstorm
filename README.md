@@ -71,4 +71,4 @@ I'm passionate about transforming ideas into reality, building products from con
 - **AI and Machine Learning**: Applied **Machine Learning** algorithms and AI technologies to enhance product features and user experiences. I've also **built from scratch models**, and **created novel DAG** pipelines.
 
 
-#### Want to work together? [I offer many forms of consulting](https://cyb3r.world)
+#### Want to work together? [I can help you in many ways](https://swarmstorm.studio)
